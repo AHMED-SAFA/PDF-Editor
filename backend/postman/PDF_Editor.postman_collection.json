@@ -1,0 +1,45 @@
+{
+  "info": {
+    "name": "PDF Editor APIs",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Translate PDF",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            { "key": "file", "type": "file", "src": [], "description": "Source PDF" },
+            { "key": "source_language", "value": "en", "type": "text" },
+            { "key": "target_language", "value": "bn", "type": "text" }
+          ]
+        },
+        "url": "{{baseUrl}}/api/translate-pdf"
+      }
+    },
+    {
+      "name": "Watermark PDF",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            { "key": "file", "type": "file", "src": [], "description": "Source PDF" },
+            { "key": "text", "value": "CONFIDENTIAL", "type": "text" },
+            { "key": "position", "value": "center", "type": "text" },
+            { "key": "opacity", "value": "0.25", "type": "text" },
+            { "key": "color", "value": "#FF0000", "type": "text" }
+          ]
+        },
+        "url": "{{baseUrl}}/editor/pdf/watermark"
+      }
+    }
+  ],
+  "variable": [
+    { "key": "baseUrl", "value": "http://127.0.0.1:8000" }
+  ]
+}
