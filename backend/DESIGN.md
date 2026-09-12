@@ -1,22 +1,32 @@
-# Design notes
+# **-** **<u>PDF Editor Design Choices</u>** 
 
-The API is a thin FastAPI layer over small services. Routers only validate
-uploads and form fields. PDF work lives in `app/services` so either endpoint
-can be reused from another app or a CLI later.
+The project uses a Flutter client with a Python FastAPI backend. 
 
-**Libraries.** PyMuPDF extracts text, writes the translated document, and
-draws watermarks. It is a practical choice on Windows: one dependency, Unicode
-fonts via `@font-face`, and HTML layout through `Story` / `insert_htmlbox`.
-Translation is `deep-translator`: Google first, MyMemory as a free fallback
-(needed when Google rate-limits). No paid API key. Swap `translator.py` if you
-later want a billed provider.
+1. PyMuPDF is used for text extraction, PDF generation, and watermarking because it provides a single dependency with Unicode and HTML-layout support. 
 
-**Bangla.** Output PDFs embed Noto Sans Bengali (and Noto Sans for Latin).
-PyMuPDF’s HTML writer uses HarfBuzz-style shaping, which keeps conjuncts
-readable. Watermark text uses the same font stack, so `bn` works as source or
-target and as watermark copy.
+2. Translation uses deep-translator, calling Google Translate first and MyMemory as a fallback when the free Google endpoint is unavailable or rate-limited. 
 
-**Limits.** Translation needs outbound network access and can fail if Google
-throttles the free endpoint. Rebuilt PDFs are flowing text on A4 pages; they
-do not clone the source layout, fonts, or images. Scanned PDFs with no text
-layer cannot be translated.
+3. Dio handles multipart HTTP requests in Flutter, while file_picker, path_provider, and open_filex support file selection and result handling. 
+
+4. Generated PDFs embed both Noto Sans and Noto Sans Bengali fonts, loaded through PyMuPDF’s font archive and referenced with CSS @font-face. 
+
+5. Noto Sans because: 
+
+   - **Noto Sans** covers Latin text and many common symbols consistently. 
+
+   - **Noto Sans Bengali** is designed specifically for Bangla script, including conjuncts, vowel signs, and other complex character combinations. 
+
+6. The same font configuration is used for watermark text, so Bangla can also be used in watermarks. 
+
+# **<u>Limitations</u>** 
+
+- Translated PDFs are rebuilt on A4 pages. 
+
+- The original PDF’s layout, images, fonts, tables, and exact page structure are not preserved. 
+
+- Translation requires internet access. 
+
+- Scanned PDFs without an extractable text layer cannot be translated because the project does not include OCR. 
+
+- Uploads are limited to 20 MB. 
+
