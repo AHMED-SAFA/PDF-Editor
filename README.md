@@ -24,17 +24,21 @@ default PDF viewer.
 
 The Flutter client currently exposes these languages:
 
-| Code | Language |
-| ---- | -------- |
-| `en` | English  |
-| `bn` | Bangla   |
+| Code | Language  |
+| ---- | --------- |
+| `en` | English   |
+| `bn` | Bangla    |
+| `hi` | Hindi     |
+| `ar` | Arabic    |
+| `fr` | French    |
+| `es` | Spanish   |
 
 ### PDF watermarking
 
 - Select a PDF from the device.
 - Enter watermark text.
 - Select one of seven positions.
-- Set opacity from `0.25``.
+- Set opacity from `0.0 - 1.0``.
 - Enter a 3-digit or 6-digit hexadecimal color.
 - Apply the watermark to every page.
 - Save and open the watermarked result automatically.
@@ -169,6 +173,8 @@ the device running the app:
 cd flutter_app
 flutter devices
 flutter run
+or
+flutter run -d chrome
 ```
 
 In the app:

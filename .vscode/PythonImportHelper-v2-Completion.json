@@ -1,0 +1,614 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "read_pdf_upload",
+        "importPath": "app.core.pdf_io",
+        "description": "app.core.pdf_io",
+        "isExtraImport": true,
+        "detail": "app.core.pdf_io",
+        "documentation": {}
+    },
+    {
+        "label": "read_pdf_upload",
+        "importPath": "app.core.pdf_io",
+        "description": "app.core.pdf_io",
+        "isExtraImport": true,
+        "detail": "app.core.pdf_io",
+        "documentation": {}
+    },
+    {
+        "label": "translate_pdf",
+        "importPath": "app.services.translate_pdf",
+        "description": "app.services.translate_pdf",
+        "isExtraImport": true,
+        "detail": "app.services.translate_pdf",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationError",
+        "importPath": "app.services.translator",
+        "description": "app.services.translator",
+        "isExtraImport": true,
+        "detail": "app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "importPath": "app.services.translator",
+        "description": "app.services.translator",
+        "isExtraImport": true,
+        "detail": "app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "POSITIONS",
+        "importPath": "app.services.watermark",
+        "description": "app.services.watermark",
+        "isExtraImport": true,
+        "detail": "app.services.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "apply_text_watermark",
+        "importPath": "app.services.watermark",
+        "description": "app.services.watermark",
+        "isExtraImport": true,
+        "detail": "app.services.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsConfigDict",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "pymupdf",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymupdf",
+        "description": "pymupdf",
+        "detail": "pymupdf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "html",
+        "description": "html",
+        "detail": "html",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BODY_CSS",
+        "importPath": "app.core.fonts",
+        "description": "app.core.fonts",
+        "isExtraImport": true,
+        "detail": "app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font_archive",
+        "importPath": "app.core.fonts",
+        "description": "app.core.fonts",
+        "isExtraImport": true,
+        "detail": "app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "BODY_CSS",
+        "importPath": "app.core.fonts",
+        "description": "app.core.fonts",
+        "isExtraImport": true,
+        "detail": "app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font_archive",
+        "importPath": "app.core.fonts",
+        "description": "app.core.fonts",
+        "isExtraImport": true,
+        "detail": "app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "require_fonts",
+        "importPath": "app.core.fonts",
+        "description": "app.core.fonts",
+        "isExtraImport": true,
+        "detail": "app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "importPath": "app.services.pdf_text",
+        "description": "app.services.pdf_text",
+        "isExtraImport": true,
+        "detail": "app.services.pdf_text",
+        "documentation": {}
+    },
+    {
+        "label": "text_to_pdf",
+        "importPath": "app.services.pdf_write",
+        "description": "app.services.pdf_write",
+        "isExtraImport": true,
+        "detail": "app.services.pdf_write",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleTranslator",
+        "importPath": "deep_translator",
+        "description": "deep_translator",
+        "isExtraImport": true,
+        "detail": "deep_translator",
+        "documentation": {}
+    },
+    {
+        "label": "MyMemoryTranslator",
+        "importPath": "deep_translator",
+        "description": "deep_translator",
+        "isExtraImport": true,
+        "detail": "deep_translator",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.translate",
+        "description": "app.api.translate",
+        "isExtraImport": true,
+        "detail": "app.api.translate",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.api.watermark",
+        "description": "app.api.watermark",
+        "isExtraImport": true,
+        "detail": "app.api.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "lldb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lldb",
+        "description": "lldb",
+        "detail": "lldb",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.translate",
+        "description": "backend.app.api.translate",
+        "peekOfCode": "router = APIRouter(tags=[\"translate\"])\n@router.post(\"/api/translate-pdf\")\nasync def translate_pdf_endpoint(\n    file: UploadFile = File(...),\n    source_language: str = Form(...),\n    target_language: str = Form(...),\n) -> Response:\n    pdf_bytes = await read_pdf_upload(file)\n    try:\n        result = translate_pdf(pdf_bytes, source_language, target_language)",
+        "detail": "backend.app.api.translate",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.watermark",
+        "description": "backend.app.api.watermark",
+        "peekOfCode": "router = APIRouter(tags=[\"watermark\"])\nHEX_COLOR = re.compile(r\"^#(?:[0-9a-fA-F]{3}|[0-9a-fA-F]{6})$\")\n@router.post(\"/editor/pdf/watermark\")\nasync def watermark_pdf_endpoint(\n    file: UploadFile = File(...),\n    text: str = Form(...),\n    position: str = Form(...),\n    opacity: float = Form(...),\n    color: str = Form(...),\n) -> Response:",
+        "detail": "backend.app.api.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "HEX_COLOR",
+        "kind": 5,
+        "importPath": "backend.app.api.watermark",
+        "description": "backend.app.api.watermark",
+        "peekOfCode": "HEX_COLOR = re.compile(r\"^#(?:[0-9a-fA-F]{3}|[0-9a-fA-F]{6})$\")\n@router.post(\"/editor/pdf/watermark\")\nasync def watermark_pdf_endpoint(\n    file: UploadFile = File(...),\n    text: str = Form(...),\n    position: str = Form(...),\n    opacity: float = Form(...),\n    color: str = Form(...),\n) -> Response:\n    if not text.strip():",
+        "detail": "backend.app.api.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    model_config = SettingsConfigDict(env_prefix=\"PDF_EDITOR_\", extra=\"ignore\")\n    app_name: str = \"PDF Editor APIs\"\n    max_upload_bytes: int = 20 * 1024 * 1024\n    cors_origins: list[str] = [\"*\"]\n    @property\n    def fonts_dir(self) -> Path:\n        return Path(__file__).resolve().parents[1] / \"assets\" / \"fonts\"\nsettings = Settings()",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "backend.app.core.config",
+        "description": "backend.app.core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "backend.app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "font_archive",
+        "kind": 2,
+        "importPath": "backend.app.core.fonts",
+        "description": "backend.app.core.fonts",
+        "peekOfCode": "def font_archive() -> pymupdf.Archive:\n    return pymupdf.Archive(str(settings.fonts_dir))\ndef require_fonts() -> None:\n    missing = [\n        name\n        for name in (LATIN_FONT, BENGALI_FONT)\n        if not (settings.fonts_dir / name).exists()\n    ]\n    if missing:\n        raise RuntimeError(",
+        "detail": "backend.app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "require_fonts",
+        "kind": 2,
+        "importPath": "backend.app.core.fonts",
+        "description": "backend.app.core.fonts",
+        "peekOfCode": "def require_fonts() -> None:\n    missing = [\n        name\n        for name in (LATIN_FONT, BENGALI_FONT)\n        if not (settings.fonts_dir / name).exists()\n    ]\n    if missing:\n        raise RuntimeError(\n            \"Missing font files in app/assets/fonts: \" + \", \".join(missing)\n        )",
+        "detail": "backend.app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "LATIN_FONT",
+        "kind": 5,
+        "importPath": "backend.app.core.fonts",
+        "description": "backend.app.core.fonts",
+        "peekOfCode": "LATIN_FONT = \"NotoSans-Regular.ttf\"\nBENGALI_FONT = \"NotoSansBengali-Regular.ttf\"\nBODY_CSS = f\"\"\"\n@font-face {{\n    font-family: AppSans;\n    src: url({LATIN_FONT});\n}}\n@font-face {{\n    font-family: AppSans;\n    src: url({BENGALI_FONT});",
+        "detail": "backend.app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "BENGALI_FONT",
+        "kind": 5,
+        "importPath": "backend.app.core.fonts",
+        "description": "backend.app.core.fonts",
+        "peekOfCode": "BENGALI_FONT = \"NotoSansBengali-Regular.ttf\"\nBODY_CSS = f\"\"\"\n@font-face {{\n    font-family: AppSans;\n    src: url({LATIN_FONT});\n}}\n@font-face {{\n    font-family: AppSans;\n    src: url({BENGALI_FONT});\n}}",
+        "detail": "backend.app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "BODY_CSS",
+        "kind": 5,
+        "importPath": "backend.app.core.fonts",
+        "description": "backend.app.core.fonts",
+        "peekOfCode": "BODY_CSS = f\"\"\"\n@font-face {{\n    font-family: AppSans;\n    src: url({LATIN_FONT});\n}}\n@font-face {{\n    font-family: AppSans;\n    src: url({BENGALI_FONT});\n}}\nbody {{",
+        "detail": "backend.app.core.fonts",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": "backend.app.services.pdf_text",
+        "description": "backend.app.services.pdf_text",
+        "peekOfCode": "def extract_text(pdf_bytes: bytes) -> str:\n    with pymupdf.open(stream=pdf_bytes, filetype=\"pdf\") as doc:\n        pages = [page.get_text(\"text\").strip() for page in doc]\n    text = \"\\n\\n\".join(part for part in pages if part).strip()\n    if not text:\n        raise ValueError(\"No extractable text was found in this PDF.\")\n    return text",
+        "detail": "backend.app.services.pdf_text",
+        "documentation": {}
+    },
+    {
+        "label": "text_to_pdf",
+        "kind": 2,
+        "importPath": "backend.app.services.pdf_write",
+        "description": "backend.app.services.pdf_write",
+        "peekOfCode": "def text_to_pdf(text: str) -> bytes:\n    paragraphs = [\n        f\"<p>{html.escape(block)}</p>\"\n        for block in text.split(\"\\n\")\n        if block.strip()\n    ]\n    if not paragraphs:\n        paragraphs = [\"<p></p>\"]\n    story = pymupdf.Story(\n        \"<body>\" + \"\".join(paragraphs) + \"</body>\",",
+        "detail": "backend.app.services.pdf_write",
+        "documentation": {}
+    },
+    {
+        "label": "translate_pdf",
+        "kind": 2,
+        "importPath": "backend.app.services.translate_pdf",
+        "description": "backend.app.services.translate_pdf",
+        "peekOfCode": "def translate_pdf(pdf_bytes: bytes, source_language: str, target_language: str) -> bytes:\n    original = extract_text(pdf_bytes)\n    translated = translate_text(original, source_language, target_language)\n    return text_to_pdf(translated)",
+        "detail": "backend.app.services.translate_pdf",
+        "documentation": {}
+    },
+    {
+        "label": "TranslationError",
+        "kind": 6,
+        "importPath": "backend.app.services.translator",
+        "description": "backend.app.services.translator",
+        "peekOfCode": "class TranslationError(RuntimeError):\n    pass\ndef _short_code(language: str) -> str:\n    return language.strip().lower().replace(\"_\", \"-\").split(\"-\")[0]\ndef _chunks(text: str, size: int) -> list[str]:\n    parts: list[str] = []\n    remaining = text\n    while remaining:\n        if len(remaining) <= size:\n            parts.append(remaining)",
+        "detail": "backend.app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "kind": 2,
+        "importPath": "backend.app.services.translator",
+        "description": "backend.app.services.translator",
+        "peekOfCode": "def translate_text(text: str, source_language: str, target_language: str) -> str:\n    source = _short_code(source_language)\n    target = _short_code(target_language)\n    if not source or not target:\n        raise TranslationError(\"source_language and target_language are required.\")\n    if source == target:\n        return text\n    errors: list[str] = []\n    try:\n        return _run(",
+        "detail": "backend.app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_GOOGLE_CHUNK",
+        "kind": 5,
+        "importPath": "backend.app.services.translator",
+        "description": "backend.app.services.translator",
+        "peekOfCode": "MAX_GOOGLE_CHUNK = 4000\nMAX_MYMEMORY_CHUNK = 450\nMYMEMORY_LOCALES = {\n    \"en\": \"en-GB\",\n    \"bn\": \"bn-IN\",\n    \"hi\": \"hi-IN\",\n    \"ar\": \"ar-SA\",\n    \"es\": \"es-ES\",\n    \"fr\": \"fr-FR\",\n    \"de\": \"de-DE\",",
+        "detail": "backend.app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_MYMEMORY_CHUNK",
+        "kind": 5,
+        "importPath": "backend.app.services.translator",
+        "description": "backend.app.services.translator",
+        "peekOfCode": "MAX_MYMEMORY_CHUNK = 450\nMYMEMORY_LOCALES = {\n    \"en\": \"en-GB\",\n    \"bn\": \"bn-IN\",\n    \"hi\": \"hi-IN\",\n    \"ar\": \"ar-SA\",\n    \"es\": \"es-ES\",\n    \"fr\": \"fr-FR\",\n    \"de\": \"de-DE\",\n}",
+        "detail": "backend.app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "MYMEMORY_LOCALES",
+        "kind": 5,
+        "importPath": "backend.app.services.translator",
+        "description": "backend.app.services.translator",
+        "peekOfCode": "MYMEMORY_LOCALES = {\n    \"en\": \"en-GB\",\n    \"bn\": \"bn-IN\",\n    \"hi\": \"hi-IN\",\n    \"ar\": \"ar-SA\",\n    \"es\": \"es-ES\",\n    \"fr\": \"fr-FR\",\n    \"de\": \"de-DE\",\n}\nclass TranslationError(RuntimeError):",
+        "detail": "backend.app.services.translator",
+        "documentation": {}
+    },
+    {
+        "label": "apply_text_watermark",
+        "kind": 2,
+        "importPath": "backend.app.services.watermark",
+        "description": "backend.app.services.watermark",
+        "peekOfCode": "def apply_text_watermark(\n    pdf_bytes: bytes,\n    text: str,\n    position: str,\n    opacity: float,\n    color: str,\n) -> bytes:\n    css = BODY_CSS + f\"\"\"\n    .mark {{\n        color: {color};",
+        "detail": "backend.app.services.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "Position",
+        "kind": 5,
+        "importPath": "backend.app.services.watermark",
+        "description": "backend.app.services.watermark",
+        "peekOfCode": "Position = Literal[\n    \"top-left\",\n    \"top-center\",\n    \"top-right\",\n    \"center\",\n    \"bottom-left\",\n    \"bottom-center\",\n    \"bottom-right\",\n]\nPOSITIONS: tuple[str, ...] = (",
+        "detail": "backend.app.services.watermark",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "def create_app() -> FastAPI:\n    require_fonts()\n    app = FastAPI(title=settings.app_name, version=\"1.0.0\")\n    app.add_middleware(\n        CORSMiddleware,\n        allow_origins=settings.cors_origins,\n        allow_credentials=True,\n        allow_methods=[\"*\"],\n        allow_headers=[\"*\"],\n    )",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = create_app()",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "handle_new_rx_page",
+        "kind": 2,
+        "importPath": "flutter_app.ios.Flutter.ephemeral.flutter_lldb_helper",
+        "description": "flutter_app.ios.Flutter.ephemeral.flutter_lldb_helper",
+        "peekOfCode": "def handle_new_rx_page(frame: lldb.SBFrame, bp_loc, extra_args, intern_dict):\n    \"\"\"Intercept NOTIFY_DEBUGGER_ABOUT_RX_PAGES and touch the pages.\"\"\"\n    base = frame.register[\"x0\"].GetValueAsAddress()\n    page_len = frame.register[\"x1\"].GetValueAsUnsigned()\n    # Note: NOTIFY_DEBUGGER_ABOUT_RX_PAGES will check contents of the\n    # first page to see if handled it correctly. This makes diagnosing\n    # misconfiguration (e.g. missing breakpoint) easier.\n    data = bytearray(page_len)\n    data[0:8] = b'IHELPED!'\n    error = lldb.SBError()",
+        "detail": "flutter_app.ios.Flutter.ephemeral.flutter_lldb_helper",
+        "documentation": {}
+    }
+]
