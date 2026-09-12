@@ -12,11 +12,11 @@ A minimal Flutter client lives in `../flutter_app`.
 ```bash
 cd backend
 python -m venv .venv
-.venv\Scripts\activate
+source .venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-Fonts are already in `app/assets/fonts` (Noto Sans + Noto Sans Bengali).
+Fonts are in `app/assets/fonts` (Noto Sans + Noto Sans Bengali).
 
 ## Run the server
 
@@ -58,7 +58,3 @@ Set `baseUrl` to `http://127.0.0.1:8000`.
 ## Flutter app
 
 See `../flutter_app/README.md`. Point the app at this server (`10.0.2.2:8000` on the Android emulator).
-
-## Known limits
-
-Translation uses Google Translate via `deep-translator` (needs internet). The rebuilt PDF keeps text, not the original layout or images.
