@@ -264,6 +264,13 @@ The collection contains requests for both PDF operations. Since the responses
 are binary PDF files, use Postman's **Save Response** option to save a result
 to disk.
 
+## Screen Shots
+
+<img width="1920" height="917" alt="Screenshot 2026-09-12 015705" src="https://github.com/user-attachments/assets/ae01dc36-df01-4853-90bd-8515c08c868b" />
+
+<img width="1912" height="932" alt="Screenshot 2026-09-12 020232" src="https://github.com/user-attachments/assets/f7bfb23e-81c2-4690-9442-7e5d4f6cf2fd" />
+
+
 ## Architecture
 
 ### Backend
@@ -298,33 +305,54 @@ The following placeholders are intentionally left for project screenshots.
 Replace each placeholder with a GitHub image link after adding images to the
 repository, for example `docs/screenshots/translate-screen.png`.
 
-### Main screen
 
-<!-- SCREENSHOT PLACEHOLDER: Add the Flutter app home screen here. -->
+# PDF translation
 
-> **Screenshot placeholder:** Add the Flutter home screen here, showing the
-> Translate and Watermark tabs.
+<img width="500" height="500" alt="Screenshot 2026-09-12 215621" src="https://github.com/user-attachments/assets/857eaeed-9423-47cd-8f5c-39c37c7c4d73" />
 
-### PDF translation
+<img width="500" height="500" alt="Screenshot 2026-09-12 215658" src="https://github.com/user-attachments/assets/8a876804-f789-4b6d-8ed0-5e14398d987b" />
 
-<!-- SCREENSHOT PLACEHOLDER: Add the translation screen here. -->
-
-> **Screenshot placeholder:** Add the translation screen here, showing PDF
 > selection, source language, target language, and the Translate PDF button.
 
-### PDF watermark
+---
 
-<!-- SCREENSHOT PLACEHOLDER: Add the watermark screen here. -->
+# PDF watermark
 
-> **Screenshot placeholder:** Add the watermark screen here, showing watermark
+<img width="500" height="500" alt="Screenshot 2026-09-12 215746" src="https://github.com/user-attachments/assets/6c6ac7d1-2941-45c4-b91f-88d67f8bfbf8" />
+
+<img width="500" height="500" alt="Screenshot 2026-09-12 215820" src="https://github.com/user-attachments/assets/f6114be1-3fd3-48f8-b20a-2d476f186479" />
+
+
 > text, position, opacity, color, and submit controls.
 
-### Generated PDF
+---
 
-<!-- SCREENSHOT PLACEHOLDER: Add an output PDF preview here. -->
+# Input
 
-> **Screenshot placeholder:** Add an example translated or watermarked PDF
-> output here.
+<img width="917" height="332" alt="Screenshot 2026-09-12 223425" src="https://github.com/user-attachments/assets/f5bc2d26-cb61-4985-8bda-fe03cb906c82" />
+
+---
+
+# Outputs
+
+<img width="300" height="300" alt="ban" src="https://github.com/user-attachments/assets/978840fc-3279-4cf8-bcce-6bec1ae696d4" />
+
+<img width="300" height="300" alt="arab" src="https://github.com/user-attachments/assets/81263e61-929d-4ba0-9ef4-45f4fd7ae78d" />
+
+French
+
+<img width="300" height="300" alt="french" src="https://github.com/user-attachments/assets/5d79a5b2-5fec-4106-a02a-889d95a9f2cd" />
+
+Spanish
+
+<img width="300" height="300" alt="spanish" src="https://github.com/user-attachments/assets/abb96a50-1b62-4e1e-8d17-3975a3263b7e" />
+
+---
+
+# Wastermark
+
+<img width="600" height="600" alt="water" src="https://github.com/user-attachments/assets/d68c1c85-a3e6-4b88-a574-c731d9a761cf" />
+
 
 ## Additional Documentation
 
