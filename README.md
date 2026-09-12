@@ -1,4 +1,5 @@
-# PDF Editor
+<h1 align="center">PDF Editor</h1>
+
 
 A full-stack PDF utility with a Python FastAPI backend and a Flutter client.
 The project provides two operations:
